@@ -1,16 +1,3 @@
-# myapp
+#Act-7-listar-tarjetas-6I-2026
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="712" height="488" alt="image" src="https://github.com/user-attachments/assets/a2637b1d-cd84-4c3d-bb7d-edec0b1614ad" />
